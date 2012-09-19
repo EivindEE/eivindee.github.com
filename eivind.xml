@@ -6,8 +6,8 @@
 		<foaf:gender>Male</foaf:gender>
 		<foaf:givenname>Eivind</foaf:givenname>
 		<foaf:family_name>Elseth</foaf:family_name>
-		<foaf:homepage rdf:resource="http://elseth.me"/>
-		<foaf:mbox rdf:resource="mailto:eivind.elseth@gmail.com"/>
-		<foaf:mbox rdf:resource="mailto:eivind.elseth@student.uib.no"/>
+		<foaf:homepage rdf:resource="http://elseth.me" />
+		<foaf:mbox rdf:resource="mailto:eivind.elseth@gmail.com" />
+		<foaf:mbox rdf:resource="mailto:eivind.elseth@student.uib.no" />
  </foaf:Person>
 </rdf:RDF>
