@@ -1,0 +1,13 @@
+<rdf:RDF
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:foaf="http://xmlns.com/foaf/0.1/">
+ <foaf:Person>
+	<foaf:name>Eivind Eidheim Elseth</foaf:name>
+	<foaf:gender>Male</foaf:gender>
+	<foaf:givenname>Eivind</foaf:givenname>
+	<foaf:family_name>Elseth</foaf:family_name>
+	<foaf:homepage rdf:resource="http://elseth.me">
+	<foaf:mbox rdf:resource="mailto:eivind.elseth@gmail.com"/>
+	<foaf:mbox rdf:resource="mailto:eivind.elseth@student.uib.no"/>
+ </foaf:Person>
+</rdf:RDF>
